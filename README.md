@@ -1,2 +1,2 @@
-Serwer
+Serwer, nie smiać się proszę
 ======
